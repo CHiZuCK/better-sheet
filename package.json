@@ -1,0 +1,45 @@
+{
+  "name": "better-sheet",
+  "version": "0.0.1",
+  "description": "A highly customizable and performant React Native bottom sheet component with snap points, smooth animations, and scroll coordination",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "bottom-sheet",
+    "bottomsheet",
+    "modal",
+    "drawer",
+    "snap-points",
+    "animated",
+    "gesture"
+  ],
+  "author": "CHiZuCK",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CHiZuCK/better-sheet.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CHiZuCK/better-sheet/issues"
+  },
+  "homepage": "https://github.com/CHiZuCK/better-sheet#readme",
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-native": ">=0.60.0"
+  },
+  "devDependencies": {
+    "react": "^18.2.0",
+    "react-native": "^0.73.0"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "BetterSheet.jsx",
+    "README.md",
+    "LICENSE"
+  ]
+}
